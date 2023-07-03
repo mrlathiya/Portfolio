@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 20px;
+}
+
+.logo{
+    flex-basis: 60%;
+}
+.logo img{
+    height: 56.44px;
+    width: 182.9px;
+}
+
+.navbar{
+    flex-basis: 40%;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.navbar a{
+    padding: 0px 10px;
+    font-family: "";
+    font-size: 24sp;
+    text-decoration: none;
+    color: white;   
+}
