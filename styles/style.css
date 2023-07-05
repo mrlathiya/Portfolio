@@ -34,3 +34,16 @@ img.logo{
     color: white;
     padding: 0px 20px;
 }
+
+.banner .banner1{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+
+.banner .banner2{
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+
